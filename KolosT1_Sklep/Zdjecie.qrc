@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/poli">
+        <file>poli.png</file>
+    </qresource>
+</RCC>
